@@ -54,11 +54,17 @@ education:
       details: |
         Focus on computer generated art. Received full tuition scholarship. 3.9 GPA.
 
+          - Bullet point
+          - Bullet point
+
     - degree: BA Fine Arts
       university: University of California, Davis
       time: 2007 - 2011
       details: |
         Minor in Rhetoric and Communications. 3.7 GPA.
+
+          - Bullet point
+          - Bullet point
 
 experiences:
     - role: Lead Developer
