@@ -15,7 +15,7 @@ sidebar:
     email: vince.golveo@gmail.com
     phone: 310 795 3865
     website: vincegolveo.com #do not add http://
-    linkedin: binzu
+    linkedin: vincegolveo
     github: binzu
     gitlab:
     bitbucket:
@@ -162,20 +162,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
+        level: 90%
+
+      - name: React
+        level: 75%
 
       - name: Angular
-        level: 98%
+        level: 70%
 
-      - name: HTML5 & CSS
+      - name: WordPress
+        level: 90%
+
+      - name: Drupal
+        level: 60%
+
+      - name: LAMP
+        level: 60%
+
+      - name: HTML5
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: CSS & SASS
+        level: 95%
 
       - name: Sketch & Photoshop
         level: 60%
