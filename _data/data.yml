@@ -54,6 +54,22 @@ career-profile:
       job status is I'm available for freelance or contract work.
 
 education:
+
+    - degree: Mobile Web Specialist Nanodegree
+      university: Udacity / Google Scholarship
+      time: 2011 - 2012
+      details: |
+        Focus on computer generated art. Received full tuition scholarship. 3.9 GPA.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: Business Development Certificate
+      university: Workshop in Business Opportunity
+      time: 2011 - 2012
+      details: |
+        Focus on computer generated art. Received full tuition scholarship. 3.9 GPA.
+
     - degree: MFA Studio Art
       university: University of California, Irvine
       time: 2011 - 2012
@@ -93,7 +109,7 @@ experiences:
       company: Robert Half Technology, New York, NY
       details: |
         Implemented updates and optimizations to various UI elements at Patch Media, a large
-        news website with millions of views per day
+        news website with millions of views per day.
 
           - Patch.com
 
@@ -139,7 +155,7 @@ projects:
     assignments:
       - title: Renegade LLC
         link: "https://renegade.com/"
-        tagline: "A responsive B2B site for a marketing consultancy group custom built with WordPress, BootStrap, PHP, MySQL, ADV, Git, Gulp, SASS, jQuery, HTML and CSS"
+        tagline: "A responsive B2B site for a marketing consultancy group custom built with WordPress, BootStrap, PHP, MySQL, ADV, Git, Gulp, SASS, jQuery, HTML and CSS."
 
       - title: Sara Cowlan, MS, RD, CDN
         link: "http://saracowlan.com/"
