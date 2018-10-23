@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Vince Golveo
-    tagline: Front End Web Developer
+    tagline: Front-End Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,21 +31,36 @@ sidebar:
         level: Conversational
 
     interests:
-      - item: Theater
-        link:
-
-      - item: Visual Art
-        link:
 
       - item: Cooking
+        link:
+
+      - item: Contemporary Art
+        link:
+
+      - item: Live Music
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Creative and technically advanced developer who has years of experience delivering
-      innovative digital marketing solutions, websites and web applications, with a
-      strong arts and design background.
+      I'm a creative and technically advanced developer with years of experience delivering
+      innovative digital marketing solutions, websites and web applications, who also happens to 
+      have a strong arts and design background. 
+      
+      My career in web development began in Los Angeles working for the entertainment industry 
+      as a Rich Media Designer/Developer. I started by working for industry giants such as Disney, Stan Lee, 
+      and Sony, then consumer marketing agencies like TBWA/Chiat Day and Razorfish. In my spare time I taught
+      computer graphics courses at the Art Institute and various non-profits. In mid-2000, I fulfilled a dream to move to New York, 
+      landing a job at a startup called Daylife creating visualizations for a 
+      news aggregation product. Eventually, I went back to 
+      entertainment marketing full-time as a lead developer at Mammoth Advertising and there realized 
+      my curiousity for coding exceeded my love of design. This passion for coding brought me to taking 
+      more complex programming roles eventually leading to an enterprise-level development role for Ogilvy & Mather at IBM. 
+      
+      This combination of strong visual sensibilities and curiousity in coding
+      
+
 
 education:
     - degree: MFA Studio Art
