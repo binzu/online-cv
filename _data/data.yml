@@ -44,26 +44,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a creative and technically advanced developer who also has a strong arts, design and teaching
-      background. I have years of experience delivering innovative digital marketing solutions, websites
-      and web applications with various teams from enterprise to small businesses and non-profits. My engagement
-      with web technologies comes from curiousity and passion for the positive things that the internet
-      brings to people's lives. Currently, I just finished launching a website for Renegade, LLC and
-      am completing a Mobile Web Specialist Nanodegree that I received through a Google Challenge Scholarship at
-      Udacity. I am also available now for freelance or contract work.
-
-career-history:
-    title: Career History
-    summary: |
-      My career in web development began in Los Angeles working for the entertainment industry
-      as a Rich Media Designer/Developer. I started by working for industry giants such as Disney, Stan Lee,
-      and Sony, then consumer marketing agencies like TBWA/Chiat Day and Razorfish. In my spare time I taught
-      computer graphics courses at the Art Institute and various non-profits. In mid-2000, I fulfilled a dream
-      to move to New York, landing a job at a startup called Daylife creating visualizations for a
-      news aggregation product. Eventually, I went back to entertainment marketing full-time as a lead developer
-      at Mammoth Advertising and there realized my curiousity for coding exceeded my love of design. This passion
-      for coding brought me to taking more complex programming roles eventually leading to an enterprise-level
-      development role for Ogilvy & Mather at IBM.
+      I’m a creative and technically advanced developer with art, design, and teaching
+      background. I have years of experience delivering innovative digital marketing solutions,
+      websites and web applications with various teams from enterprise to small businesses and
+      non-profits. My engagement with web technologies comes from curiosity and passion for the
+      positive things that the internet brings to people’s lives. Currently, I just finished
+      launching a website for Renegade, LLC and am completing a Mobile Web Specialist Nanodegree
+      that I received through a Google Challenge Scholarship at Udacity. I am also available
+      now for freelance or contract work.
 
 education:
     - degree: MFA Studio Art
@@ -114,7 +102,7 @@ experiences:
       company: Ogilvy & Mather at IBM
       details: |
         Conceptualized, coded and maintained web applications and sites as an Ogilvy consultant at IBM.
-        I was an essential part of agile teams that successully launched the ThinkManagement portal,
+        I was an essential part of agile teams that successfully launched the ThinkManagement portal,
         Cloud Marketplace and Marketer Workspace.
 
           - Marketer Workspace
@@ -126,7 +114,7 @@ experiences:
       company: Robert Half Technology
       details: |
         Coded various digital marketing assets for pharmaceutical and consumer marketing agencies with
-        clients such as Coca-Cola and Johnson and Johnson.
+        clients such as Coca-Cola and Johnson & Johnson.
 
           - Coca-Cola Mix'On
           - Qnasl Product Tour
@@ -136,7 +124,7 @@ experiences:
       company: Mammoth Advertising
       details: |
         Developed, documented and participated in winning web projects for an entertainment marketing
-        agency, working with clients like Showtime, Harper Collins, HBO and MGM.
+        agency, working with clients like Showtime, Harper Collins, HBO, and MGM.
 
           - Movie Landing Pages
           - Corporate Websites
@@ -146,7 +134,7 @@ experiences:
 projects:
     title: Recent Projects
     intro: >
-      This is a selected list of websites and experiments I've completed over the last few years.
+      This is a selected list of websites and experiments I've completed over the last couple years.
 
     assignments:
       - title: Renegade LLC
@@ -167,7 +155,7 @@ projects:
 
       - title: Vince Golveo
         link: "https://vincegolveo.com/"
-        tagline: "A responsive Bootstrap one page personal website made with Jekyll static website generator and hosted on GitHub."
+        tagline: "A responsive Bootstrap one-page personal website made with Jekyll static website generator and hosted on GitHub."
 
       - title: Ravenous
         link: "https://github.com/binzu/ravenous"
