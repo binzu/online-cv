@@ -97,6 +97,8 @@ experiences:
           - Renegade.com
           - CalligraphyPack.com
           - SaraCowlan.com
+          - Binzu.io
+          - VinceGolveo.com
 
     - role: Salaried Professional Web Developer
       time: Sep - Dec 2017
@@ -149,31 +151,31 @@ projects:
     assignments:
       - title: Renegade LLC
         link: "https://renegade.com/"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive B2B site for a marketing consultancy group custom built with WordPress, BootStrap, PHP, MySQL, ADV, Git, Gulp, SASS, jQuery, HTML and CSS"
 
       - title: Sara Cowlan, MS, RD, CDN
         link: "http://saracowlan.com/"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A responsive website for a nutritionist built with WordPress and designed with Sketch and Photoshop."
 
       - title: Calligraphy Pack
         link: "https://www.calligraphypack.com/"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A responsive e-commerce store with hundreds of products built on the Shopify platform with PHP and Liquid, and designed with Sketch and Photoshop."
 
       - title: Binzu Digital
         link: "https://binzu.io/"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A responsive corporate website for Binzu Digital built using WordPress with Bootstrap, and designed in Sketch."
 
       - title: Vince Golveo
         link: "https://vincegolveo.com/"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive Bootstrap one page personal website made with Jekyll static website generator and hosted on GitHub."
 
       - title: Ravenous
-        link: "https://vincegolveo.com/"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "https://github.com/binzu/ravenous"
+        tagline: "A Yelp-like clone written in React."
 
       - title: Reddit Photo Reader
         link: "http://aromatic-record.surge.sh/"
-        tagline: "A simple React web app that displays Reddit posts and favorites"
+        tagline: "A simple React web app that displays Reddit posts and favorites."
 
       - title: Jamming
         link: "http://binzu-jamming.surge.sh/"
