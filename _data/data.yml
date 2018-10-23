@@ -44,23 +44,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a creative and technically advanced developer with years of experience delivering
-      innovative digital marketing solutions, websites and web applications, who also happens to 
-      have a strong arts and design background. 
-      
-      My career in web development began in Los Angeles working for the entertainment industry 
-      as a Rich Media Designer/Developer. I started by working for industry giants such as Disney, Stan Lee, 
-      and Sony, then consumer marketing agencies like TBWA/Chiat Day and Razorfish. In my spare time I taught
-      computer graphics courses at the Art Institute and various non-profits. In mid-2000, I fulfilled a dream to move to New York, 
-      landing a job at a startup called Daylife creating visualizations for a 
-      news aggregation product. Eventually, I went back to 
-      entertainment marketing full-time as a lead developer at Mammoth Advertising and there realized 
-      my curiousity for coding exceeded my love of design. This passion for coding brought me to taking 
-      more complex programming roles eventually leading to an enterprise-level development role for Ogilvy & Mather at IBM. 
-      
-      This combination of strong visual sensibilities and curiousity in coding
-      
+      I'm a creative and technically advanced developer who also has a strong arts, design and teaching
+      background. I have years of experience delivering innovative digital marketing solutions, websites
+      and web applications with various teams from enterprise to small businesses and non-profits. My engagement
+      with web technologies comes from curiousity and passion for the positive things that the internet
+      brings to people's lives. Currently, I just finished launching a website for Renegade, LLC and
+      am completing a Mobile Web Specialist Nanodegree that I received through a Google Challenge Scholarship at
+      Udacity. I am also available now for freelance or contract work.
 
+career-history:
+    title: Career History
+    summary: |
+      My career in web development began in Los Angeles working for the entertainment industry
+      as a Rich Media Designer/Developer. I started by working for industry giants such as Disney, Stan Lee,
+      and Sony, then consumer marketing agencies like TBWA/Chiat Day and Razorfish. In my spare time I taught
+      computer graphics courses at the Art Institute and various non-profits. In mid-2000, I fulfilled a dream
+      to move to New York, landing a job at a startup called Daylife creating visualizations for a
+      news aggregation product. Eventually, I went back to entertainment marketing full-time as a lead developer
+      at Mammoth Advertising and there realized my curiousity for coding exceeded my love of design. This passion
+      for coding brought me to taking more complex programming roles eventually leading to an enterprise-level
+      development role for Ogilvy & Mather at IBM.
 
 education:
     - degree: MFA Studio Art
@@ -82,76 +85,99 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Front End Web Developer Consultant and Owner
+      time: Jan 2018 - Present
+      company: Binzu Digital, Brooklyn, NY
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Founded Binzu Digital, providing professional quality online marketing, design and
+        development services for small to mid-sized businesses, individuals and non-profits.
+        Recently oversaw development and launches of a B2B marketing website, an e-commerce site,
+        and a health practitioner's website.
 
-          - Bullet point
-          - Bullet point
+          - Renegade.com
+          - CalligraphyPack.com
+          - SaraCowlan.com
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Salaried Professional Web Developer
+      time: Sep - Dec 2017
+      company: Robert Half Technology, New York, NY
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Implemented updates and optimizations to various UI elements at Patch Media, a large
+        news website with millions of views per day
 
-          - Bullet point
-          - Bullet point
+          - Patch.com
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Web Applications Developer | Associate Lead Front End Developer
+      time: Nov 2012 - Jun 2017
+      company: Ogilvy & Mather at IBM
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Conceptualized, coded and maintained web applications and sites as an Ogilvy consultant at IBM.
+        I was an essential part of agile teams that successully launched the ThinkManagement portal,
+        Cloud Marketplace and Marketer Workspace.
 
-          - Bullet point
-          - Bullet point
+          - Marketer Workspace
+          - Cloud Marketplace
+          - ThinkManagement
+
+    - role: Salaried Professional Front-End Developer
+      time: Apr 2012 - Nov 2012
+      company: Robert Half Technology
+      details: |
+        Coded various digital marketing assets for pharmaceutical and consumer marketing agencies with
+        clients such as Coca-Cola and Johnson and Johnson.
+
+          - Coca-Cola Mix'On
+          - Qnasl Product Tour
+
+    - role: Senior Rich Media Developer
+      time: Aug 2007 - Mar 2018
+      company: Mammoth Advertising
+      details: |
+        Developed, documented and participated in winning web projects for an entertainment marketing
+        agency, working with clients like Showtime, Harper Collins, HBO and MGM.
+
+          - Movie Landing Pages
+          - Corporate Websites
+          - Facebook Apps
+          - Banner Ads
 
 projects:
-    title: Projects
+    title: Recent Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a selected list of websites and experiments I've completed over the last few years.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Renegade LLC
+        link: "https://renegade.com/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
+      - title: Sara Cowlan, MS, RD, CDN
+        link: "http://saracowlan.com/"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: Calligraphy Pack
+        link: "https://www.calligraphypack.com/"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
+      - title: Binzu Digital
+        link: "https://binzu.io/"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
+      - title: Vince Golveo
+        link: "https://vincegolveo.com/"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Ravenous
+        link: "https://vincegolveo.com/"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Reddit Photo Reader
+        link: "http://aromatic-record.surge.sh/"
+        tagline: "A simple React web app that displays Reddit posts and favorites"
+
+      - title: Jamming
+        link: "http://binzu-jamming.surge.sh/"
+        tagline: "A React web app that searches and saves tracks to Spotify."
 
 publications:
     title: Publications
@@ -192,7 +218,10 @@ skills:
       - name: Drupal
         level: 60%
 
-      - name: LAMP
+      - name: PHP
+        level: 60%
+
+      - name: MySQL
         level: 60%
 
       - name: HTML5
@@ -205,4 +234,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Built by <a href="https://binzu.io" target="_blank" rel="nofollow"> Binzu Digital. Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
