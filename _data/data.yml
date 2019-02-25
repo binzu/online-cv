@@ -48,10 +48,10 @@ career-profile:
       background. I have years of experience delivering innovative digital marketing solutions,
       websites and web applications in various teams from enterprise to small businesses and
       non-profits. My engagement with web technologies comes from curiosity and passion for the
-      positive things that the internet brings to people’s lives. Recently, I developed and launched
-      a website for Renegade, LLC and am completing a Mobile Web Specialist Nanodegree
-      that I received through passing a Google Challenge Scholarship at Udacity. Currently, my
-      job status is I'm available for freelance or contract work.
+      positive things that the internet brings to people’s lives. ecently, I led development for
+      a web application for a health tech agency and completed a Mobile Web Specialist Nanodegree
+      through a Google Challenge Scholarship at Udacity. Currently, my job status is I'm available
+      for freelance or contract work.
 
 education:
 
@@ -98,6 +98,7 @@ experiences:
         Recently oversaw development and launches of a B2B marketing website, an e-commerce site,
         and a health practitioner's website.
 
+          - Honeycombhealth.com
           - Renegade.com
           - CalligraphyPack.com
           - SaraCowlan.com
@@ -153,6 +154,10 @@ projects:
       This is a selected list of websites and experiments I've completed over the last couple years.
 
     assignments:
+      - title: Honeycomb Health App
+        link: "https://honeycombhealth.com/"
+        tagline: "A web application built for a health tech agency startup non-profit using Drupal 8, and customizing screens with Drupal WebForm. Created custom theme and modules with PHP, Twig, JavaScript, jQuery, Bootstrap 4, Node, Gulp and SASS."
+
       - title: Renegade LLC
         link: "https://renegade.com/"
         tagline: "A responsive B2B site for a marketing consultancy group custom built with WordPress, BootStrap, PHP, MySQL, ADV, Git, Gulp, SASS, jQuery, HTML and CSS."
